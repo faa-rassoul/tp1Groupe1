@@ -31,13 +31,12 @@ float division (float a, float b){
 float a,b;
 // methode main par fatou
 main(){
-float r;
+    
     printf ("saisir a");
     scanf ("%f",&a);
      printf ("saisir b");
     scanf ("%f",&b);
-r=addition(float a,float b);
-printf("La somme donne %f",r);
+addition(float a,float b);
 soustration(float a,float b);
 multiplication (float a, float b);
 division (float a, float b);
