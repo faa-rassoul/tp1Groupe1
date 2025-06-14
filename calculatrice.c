@@ -2,10 +2,16 @@
 
 
 // fontion addition par marone
+float addition(float a,float b){
+    return a+b;
+}
 
 
 
 // fontion soustraction par marone
+float soustration(float a,float b){
+    return a-b;
+}
 
 
 
