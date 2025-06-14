@@ -28,9 +28,17 @@ float multiplication (float a, float b){
 float division (float a, float b){
     return a/b;
 }
+float a,b;
 // methode main par fatou
 main(){
-
+    printf ("saisir a");
+    scanf ("%f",&a);
+     printf ("saisir b");
+    scanf ("%f",&b);
+addition(float a,float b);
+soustration(float a,float b);
+multiplication (float a, float b);
+division (float a, float b);
 }
 
 
