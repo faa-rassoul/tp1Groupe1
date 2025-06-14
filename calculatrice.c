@@ -1,4 +1,6 @@
 // directives de compilation djiby
+#include <stdio.h>
+#include <string.h>
 
 
 // fontion addition par marone
@@ -10,6 +12,9 @@
 
 
 // fontion multiplication par djiby
+float multiplication(float a, float b) {
+    return a * b;
+}
 
 
 
