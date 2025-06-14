@@ -31,7 +31,6 @@ float division (float a, float b){
 float a,b;
 // methode main par fatou
 main(){
-    float s;
     printf ("saisir a");
     scanf ("%f",&a);
      printf ("saisir b");
