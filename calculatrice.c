@@ -24,7 +24,7 @@ float division (float a, float b){
 }
 // methode main par fatou
 main(){
-    
+
 }
 
 
